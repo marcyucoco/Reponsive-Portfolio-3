@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528056441694">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528057679113">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4224030365" ref="about:contact:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3969198302" ref="about:contact:index"/>
+    <file name="master_a-master.css" crc="3812939112" ref="about:contact:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4044825842" ref="about:contact:index"/>
     <file name="master_portfolio-master.css" crc="4032440436" ref="portfolio-main-page"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="4238069938" ref="portfolio-main-page"/>
-    <file name="about.css" crc="298397370" ref="about"/>
-    <file name="nomq_about.css" crc="4033647218" ref="about"/>
-    <file name="contact.css" crc="424661348" ref="contact"/>
-    <file name="nomq_contact.css" crc="231042209" ref="contact"/>
-    <file name="index.css" crc="3932210376" ref="index"/>
-    <file name="nomq_index.css" crc="17464726" ref="index"/>
+    <file name="about.css" crc="140641105" ref="about"/>
+    <file name="nomq_about.css" crc="387947155" ref="about"/>
+    <file name="contact.css" crc="3935961075" ref="contact"/>
+    <file name="nomq_contact.css" crc="135401964" ref="contact"/>
+    <file name="index.css" crc="4253240714" ref="index"/>
+    <file name="nomq_index.css" crc="4034036880" ref="index"/>
     <file name="portfolio-main-page.css" crc="3991029914" ref="portfolio-main-page"/>
     <file name="nomq_portfolio-main-page.css" crc="370887795" ref="portfolio-main-page"/>
   </folder>
@@ -160,8 +160,8 @@
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4275645748" seo="true" mt="1528054218705" redirect="true"/>
-  <file name="about.html" crc="4014670215" seo="true" mt="1528054218705" redirect="true"/>
-  <file name="contact.html" crc="301157553" seo="true" mt="1528054218705" redirect="true"/>
+  <file name="index.html" crc="3972847334" seo="true" mt="1528057648140" redirect="true"/>
+  <file name="about.html" crc="419476258" seo="true" mt="1528057648140" redirect="true"/>
+  <file name="contact.html" crc="333108406" seo="true" mt="1528057648140" redirect="true"/>
   <file name="portfolio-main-page.html" crc="221757619" seo="true" mt="1528055565338" redirect="true"/>
 </manifest>
