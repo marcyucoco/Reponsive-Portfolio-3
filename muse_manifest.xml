@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527998796268">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527999639375">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="89123488" ref="about:contact:index"/>
+    <file name="master_a-master.css" crc="327863672" ref="about:contact:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4046985890" ref="about:contact:index"/>
     <file name="master_portfolio-master.css" crc="4198610073" ref="portfolio-grid-view"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="173266141" ref="portfolio-grid-view"/>
-    <file name="about.css" crc="4083377113" ref="about"/>
-    <file name="nomq_about.css" crc="3896164535" ref="about"/>
+    <file name="about.css" crc="4206699675" ref="about"/>
+    <file name="nomq_about.css" crc="4091754038" ref="about"/>
     <file name="portfolio-grid-view.css" crc="44308058" ref="portfolio-grid-view"/>
     <file name="nomq_portfolio-grid-view.css" crc="4139250089" ref="portfolio-grid-view"/>
-    <file name="contact.css" crc="4016604392" ref="contact"/>
-    <file name="nomq_contact.css" crc="4215410452" ref="contact"/>
-    <file name="index.css" crc="3903742067" ref="index"/>
-    <file name="nomq_index.css" crc="426135187" ref="index"/>
+    <file name="contact.css" crc="3997685833" ref="contact"/>
+    <file name="nomq_contact.css" crc="497282451" ref="contact"/>
+    <file name="index.css" crc="3780920181" ref="index"/>
+    <file name="nomq_index.css" crc="133736130" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -174,8 +174,8 @@
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="23683923" seo="true" mt="1527998779199" redirect="true"/>
-  <file name="about.html" crc="3907100250" seo="true" mt="1527998779199" redirect="true"/>
-  <file name="contact.html" crc="169287120" seo="true" mt="1527998779199" redirect="true"/>
+  <file name="index.html" crc="5363766" seo="true" mt="1527999624517" redirect="true"/>
+  <file name="about.html" crc="4283733378" seo="true" mt="1527999624517" redirect="true"/>
+  <file name="contact.html" crc="327656824" seo="true" mt="1527999624517" redirect="true"/>
   <file name="portfolio-grid-view.html" crc="4075717520" seo="true" mt="1527799347190" redirect="true"/>
 </manifest>
