@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528003612147">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528004105797">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="312490360" ref="about:contact:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3984403946" ref="about:contact:index"/>
+    <file name="master_a-master.css" crc="3816130514" ref="about:contact:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="368475682" ref="about:contact:index"/>
     <file name="master_portfolio-master.css" crc="3911963882" ref="portfolio-grid-view"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="3978027226" ref="portfolio-grid-view"/>
-    <file name="about.css" crc="4185489832" ref="about"/>
-    <file name="nomq_about.css" crc="377399360" ref="about"/>
+    <file name="about.css" crc="4155641046" ref="about"/>
+    <file name="nomq_about.css" crc="105615133" ref="about"/>
     <file name="portfolio-grid-view.css" crc="4176443495" ref="portfolio-grid-view"/>
     <file name="nomq_portfolio-grid-view.css" crc="3831411830" ref="portfolio-grid-view"/>
-    <file name="contact.css" crc="63516526" ref="contact"/>
-    <file name="nomq_contact.css" crc="439271459" ref="contact"/>
-    <file name="index.css" crc="61045759" ref="index"/>
-    <file name="nomq_index.css" crc="4167054905" ref="index"/>
+    <file name="contact.css" crc="4292572218" ref="contact"/>
+    <file name="nomq_contact.css" crc="348265342" ref="contact"/>
+    <file name="index.css" crc="4272608015" ref="index"/>
+    <file name="nomq_index.css" crc="4096946700" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -127,7 +127,7 @@
     <file name="u962-r_2x4.png" crc="414928484" ref="contact"/>
     <file name="u963-fs4.png" crc="212521428" ref="contact"/>
     <file name="u963-fs_2x4.png" crc="379891874" ref="contact"/>
-    <file name="u961-fse4.png" crc="4209625997" ref="contact"/>
+    <file name="u961-fse4.png" crc="147309251" ref="contact"/>
     <file name="u961-fse_2x4.png" crc="530730364" ref="contact"/>
     <file name="u972-fss4.png" crc="104885687" ref="contact"/>
     <file name="u972-fss_2x4.png" crc="263308977" ref="contact"/>
@@ -150,8 +150,8 @@
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="94655863" seo="true" mt="1528003545945" redirect="true"/>
-  <file name="about.html" crc="80911302" seo="true" mt="1528003534231" redirect="true"/>
-  <file name="contact.html" crc="263410169" seo="true" mt="1528003566465" redirect="true"/>
+  <file name="index.html" crc="4126864189" seo="true" mt="1528003978368" redirect="true"/>
+  <file name="about.html" crc="4272186038" seo="true" mt="1528003978368" redirect="true"/>
+  <file name="contact.html" crc="294533973" seo="true" mt="1528003978368" redirect="true"/>
   <file name="portfolio-grid-view.html" crc="3948198419" seo="true" mt="1528002757601" redirect="true"/>
 </manifest>
