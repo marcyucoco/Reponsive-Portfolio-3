@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528007944606">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528008147967">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3971937607" ref="about:contact:index"/>
@@ -11,7 +11,7 @@
     <file name="nomq_contact.css" crc="443367657" ref="contact"/>
     <file name="index.css" crc="21098909" ref="index"/>
     <file name="nomq_index.css" crc="377421760" ref="index"/>
-    <file name="portfolio-main-page.css" crc="132706722" ref="portfolio-main-page"/>
+    <file name="portfolio-main-page.css" crc="4177339902" ref="portfolio-main-page"/>
     <file name="nomq_portfolio-main-page.css" crc="4277203015" ref="portfolio-main-page"/>
   </folder>
   <folder name="assets">
@@ -132,36 +132,36 @@
     <file name="u972-fss4.png" crc="104885687" ref="contact"/>
     <file name="u972-fss_2x4.png" crc="263308977" ref="contact"/>
     <file name="silver bullet poster mockup.png" crc="425449628" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
     </file>
     <file name="silver bullet poster mockup_2x.png" crc="300552623" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
     </file>
     <file name="silver bullet poster mockup275x392.png" crc="15067396" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
     </file>
     <file name="silver bullet poster mockup275x392_2x.png" crc="217333365" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
-      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4130574318" seo="true" mt="1528007416367" redirect="true"/>
   <file name="about.html" crc="378958789" seo="true" mt="1528007416367" redirect="true"/>
   <file name="contact.html" crc="4223394235" seo="true" mt="1528007416367" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="4036771138" seo="true" mt="1528007931765" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="21919823" seo="true" mt="1528008113465" redirect="true"/>
 </manifest>
