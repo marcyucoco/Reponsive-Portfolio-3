@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528004105797">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528004242379">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3816130514" ref="about:contact:index"/>
+    <file name="master_a-master.css" crc="3791878801" ref="about:contact:index"/>
     <file name="nomq_preview_master_a-master.css" crc="368475682" ref="about:contact:index"/>
     <file name="master_portfolio-master.css" crc="3911963882" ref="portfolio-grid-view"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="3978027226" ref="portfolio-grid-view"/>
-    <file name="about.css" crc="4155641046" ref="about"/>
-    <file name="nomq_about.css" crc="105615133" ref="about"/>
+    <file name="about.css" crc="402681925" ref="about"/>
+    <file name="nomq_about.css" crc="4245527436" ref="about"/>
     <file name="portfolio-grid-view.css" crc="4176443495" ref="portfolio-grid-view"/>
     <file name="nomq_portfolio-grid-view.css" crc="3831411830" ref="portfolio-grid-view"/>
-    <file name="contact.css" crc="4292572218" ref="contact"/>
-    <file name="nomq_contact.css" crc="348265342" ref="contact"/>
-    <file name="index.css" crc="4272608015" ref="index"/>
-    <file name="nomq_index.css" crc="4096946700" ref="index"/>
+    <file name="contact.css" crc="3848211639" ref="contact"/>
+    <file name="nomq_contact.css" crc="4017468070" ref="contact"/>
+    <file name="index.css" crc="15343401" ref="index"/>
+    <file name="nomq_index.css" crc="304282746" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -150,8 +150,8 @@
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4126864189" seo="true" mt="1528003978368" redirect="true"/>
-  <file name="about.html" crc="4272186038" seo="true" mt="1528003978368" redirect="true"/>
-  <file name="contact.html" crc="294533973" seo="true" mt="1528003978368" redirect="true"/>
+  <file name="index.html" crc="4066104023" seo="true" mt="1528004211348" redirect="true"/>
+  <file name="about.html" crc="465705156" seo="true" mt="1528004211348" redirect="true"/>
+  <file name="contact.html" crc="380804308" seo="true" mt="1528004211348" redirect="true"/>
   <file name="portfolio-grid-view.html" crc="3948198419" seo="true" mt="1528002757601" redirect="true"/>
 </manifest>
