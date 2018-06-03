@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528008147967">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528056441694">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3971937607" ref="about:contact:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="368475682" ref="about:contact:index"/>
-    <file name="master_portfolio-master.css" crc="325809204" ref="portfolio-main-page"/>
-    <file name="nomq_preview_master_portfolio-master.css" crc="4260828978" ref="portfolio-main-page"/>
-    <file name="about.css" crc="3993467409" ref="about"/>
-    <file name="nomq_about.css" crc="4044612035" ref="about"/>
-    <file name="contact.css" crc="190214967" ref="contact"/>
-    <file name="nomq_contact.css" crc="443367657" ref="contact"/>
-    <file name="index.css" crc="21098909" ref="index"/>
-    <file name="nomq_index.css" crc="377421760" ref="index"/>
-    <file name="portfolio-main-page.css" crc="4177339902" ref="portfolio-main-page"/>
-    <file name="nomq_portfolio-main-page.css" crc="4277203015" ref="portfolio-main-page"/>
+    <file name="master_a-master.css" crc="4224030365" ref="about:contact:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3969198302" ref="about:contact:index"/>
+    <file name="master_portfolio-master.css" crc="4032440436" ref="portfolio-main-page"/>
+    <file name="nomq_preview_master_portfolio-master.css" crc="4238069938" ref="portfolio-main-page"/>
+    <file name="about.css" crc="298397370" ref="about"/>
+    <file name="nomq_about.css" crc="4033647218" ref="about"/>
+    <file name="contact.css" crc="424661348" ref="contact"/>
+    <file name="nomq_contact.css" crc="231042209" ref="contact"/>
+    <file name="index.css" crc="3932210376" ref="index"/>
+    <file name="nomq_index.css" crc="17464726" ref="index"/>
+    <file name="portfolio-main-page.css" crc="3991029914" ref="portfolio-main-page"/>
+    <file name="nomq_portfolio-main-page.css" crc="370887795" ref="portfolio-main-page"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -160,8 +160,8 @@
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4130574318" seo="true" mt="1528007416367" redirect="true"/>
-  <file name="about.html" crc="378958789" seo="true" mt="1528007416367" redirect="true"/>
-  <file name="contact.html" crc="4223394235" seo="true" mt="1528007416367" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="21919823" seo="true" mt="1528008113465" redirect="true"/>
+  <file name="index.html" crc="4275645748" seo="true" mt="1528054218705" redirect="true"/>
+  <file name="about.html" crc="4014670215" seo="true" mt="1528054218705" redirect="true"/>
+  <file name="contact.html" crc="301157553" seo="true" mt="1528054218705" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="221757619" seo="true" mt="1528055565338" redirect="true"/>
 </manifest>
