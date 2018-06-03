@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527999639375">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528000094274">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="327863672" ref="about:contact:index"/>
+    <file name="master_a-master.css" crc="3954201092" ref="about:contact:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4046985890" ref="about:contact:index"/>
     <file name="master_portfolio-master.css" crc="4198610073" ref="portfolio-grid-view"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="173266141" ref="portfolio-grid-view"/>
@@ -34,7 +34,7 @@
     <file name="jquery.scrolleffects.js" crc="530399994" ref="portfolio-grid-view"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:about:contact:portfolio-grid-view"/>
+    <file name="blank.gif" crc="4208392903" ref="about:contact:portfolio-grid-view"/>
     <file name="u357-7.png" crc="311409804" ref="about"/>
     <file name="u357-7_2x.png" crc="200199456" ref="about"/>
     <file name="u357-72.png" crc="8213923" ref="about"/>
@@ -174,8 +174,8 @@
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="5363766" seo="true" mt="1527999624517" redirect="true"/>
-  <file name="about.html" crc="4283733378" seo="true" mt="1527999624517" redirect="true"/>
-  <file name="contact.html" crc="327656824" seo="true" mt="1527999624517" redirect="true"/>
+  <file name="index.html" crc="4076928629" seo="true" mt="1528000071263" redirect="true"/>
+  <file name="about.html" crc="4160137979" seo="true" mt="1528000071263" redirect="true"/>
+  <file name="contact.html" crc="4038210351" seo="true" mt="1528000071263" redirect="true"/>
   <file name="portfolio-grid-view.html" crc="4075717520" seo="true" mt="1527799347190" redirect="true"/>
 </manifest>
