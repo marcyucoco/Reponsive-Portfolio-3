@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527997018626">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527997367925">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="442563452" ref="about:contact:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4046985890" ref="about:contact:index"/>
     <file name="master_portfolio-master.css" crc="4198610073" ref="portfolio-grid-view"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="173266141" ref="portfolio-grid-view"/>
-    <file name="about.css" crc="4239344101" ref="about"/>
-    <file name="nomq_about.css" crc="229696477" ref="about"/>
+    <file name="about.css" crc="3839247824" ref="about"/>
+    <file name="nomq_about.css" crc="414574312" ref="about"/>
     <file name="portfolio-grid-view.css" crc="44308058" ref="portfolio-grid-view"/>
     <file name="nomq_portfolio-grid-view.css" crc="4139250089" ref="portfolio-grid-view"/>
-    <file name="contact.css" crc="437133723" ref="contact"/>
-    <file name="nomq_contact.css" crc="3811379114" ref="contact"/>
-    <file name="index.css" crc="374559120" ref="index"/>
-    <file name="nomq_index.css" crc="358294068" ref="index"/>
+    <file name="contact.css" crc="3931411335" ref="contact"/>
+    <file name="nomq_contact.css" crc="3775024902" ref="contact"/>
+    <file name="index.css" crc="3784998257" ref="index"/>
+    <file name="nomq_index.css" crc="4233941361" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -174,8 +174,8 @@
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3976004608" seo="true" mt="1527996935880" redirect="true"/>
-  <file name="about.html" crc="3867554239" seo="true" mt="1527996935880" redirect="true"/>
-  <file name="contact.html" crc="383144965" seo="true" mt="1527996935880" redirect="true"/>
+  <file name="index.html" crc="4149031355" seo="true" mt="1527997345637" redirect="true"/>
+  <file name="about.html" crc="4250762851" seo="true" mt="1527997345637" redirect="true"/>
+  <file name="contact.html" crc="4208226657" seo="true" mt="1527997345637" redirect="true"/>
   <file name="portfolio-grid-view.html" crc="4075717520" seo="true" mt="1527799347190" redirect="true"/>
 </manifest>
