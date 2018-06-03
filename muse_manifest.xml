@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527801466568">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527993313746">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_portfolio-master.css" crc="413931370" ref="portfolio-grid-view"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="173266141" ref="portfolio-grid-view"/>
-    <file name="master_a-master.css" crc="4011143854" ref="about:contact:index"/>
+    <file name="master_a-master.css" crc="165997344" ref="about:contact:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4046985890" ref="about:contact:index"/>
-    <file name="about.css" crc="309124802" ref="about"/>
+    <file name="about.css" crc="3814599891" ref="about"/>
     <file name="nomq_about.css" crc="3896164535" ref="about"/>
-    <file name="contact.css" crc="18918427" ref="contact"/>
-    <file name="nomq_contact.css" crc="4215410452" ref="contact"/>
-    <file name="index.css" crc="4038126471" ref="index"/>
+    <file name="contact.css" crc="3758383610" ref="contact"/>
+    <file name="nomq_contact.css" crc="4150777265" ref="contact"/>
+    <file name="index.css" crc="447246381" ref="index"/>
     <file name="nomq_index.css" crc="426135187" ref="index"/>
     <file name="portfolio-grid-view.css" crc="3808864348" ref="portfolio-grid-view"/>
     <file name="nomq_portfolio-grid-view.css" crc="4139250089" ref="portfolio-grid-view"/>
@@ -119,10 +119,10 @@
     <file name="u962_2x3.png" crc="4205646565" ref="contact"/>
     <file name="u962-r3.png" crc="490539977" ref="contact"/>
     <file name="u962-r_2x3.png" crc="457584521" ref="contact"/>
-    <file name="u963-fs3.png" crc="3798074948" ref="contact"/>
-    <file name="u963-fs_2x3.png" crc="4084331278" ref="contact"/>
-    <file name="u961-fse3.png" crc="35118181" ref="contact"/>
-    <file name="u961-fse_2x3.png" crc="408470218" ref="contact"/>
+    <file name="u963-fs3.png" crc="4015922036" ref="contact"/>
+    <file name="u963-fs_2x3.png" crc="287311538" ref="contact"/>
+    <file name="u961-fse3.png" crc="3883583892" ref="contact"/>
+    <file name="u961-fse_2x3.png" crc="17621806" ref="contact"/>
     <file name="u972-fss3.png" crc="4215245388" ref="contact"/>
     <file name="u972-fss_2x3.png" crc="3910938815" ref="contact"/>
     <file name="u9674.png" crc="441703795" ref="contact"/>
@@ -174,8 +174,8 @@
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4206369210" seo="true" mt="1527801461586" redirect="true"/>
-  <file name="about.html" crc="86034893" seo="true" mt="1527801409946" redirect="true"/>
-  <file name="contact.html" crc="3975601784" seo="true" mt="1527801409946" redirect="true"/>
+  <file name="index.html" crc="4273728341" seo="true" mt="1527993307606" redirect="true"/>
+  <file name="about.html" crc="4111582351" seo="true" mt="1527978101880" redirect="true"/>
+  <file name="contact.html" crc="3844774562" seo="true" mt="1527993313045" redirect="true"/>
   <file name="portfolio-grid-view.html" crc="3951212966" seo="true" mt="1527799347190" redirect="true"/>
 </manifest>
