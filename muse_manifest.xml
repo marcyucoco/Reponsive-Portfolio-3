@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527998298014">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1527998469192">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="442563452" ref="about:contact:index"/>
@@ -174,8 +174,8 @@
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="307052043" seo="true" mt="1527998283631" redirect="true"/>
-  <file name="about.html" crc="4239561322" seo="true" mt="1527998283631" redirect="true"/>
-  <file name="contact.html" crc="4282215616" seo="true" mt="1527998283631" redirect="true"/>
+  <file name="index.html" crc="4224752859" seo="true" mt="1527998439013" redirect="true"/>
+  <file name="about.html" crc="391901580" seo="true" mt="1527998439013" redirect="true"/>
+  <file name="contact.html" crc="426473346" seo="true" mt="1527998439013" redirect="true"/>
   <file name="portfolio-grid-view.html" crc="4075717520" seo="true" mt="1527799347190" redirect="true"/>
 </manifest>
