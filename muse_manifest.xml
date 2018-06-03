@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528007431514">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528007944606">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3971937607" ref="about:contact:index"/>
@@ -163,5 +163,5 @@
   <file name="index.html" crc="4130574318" seo="true" mt="1528007416367" redirect="true"/>
   <file name="about.html" crc="378958789" seo="true" mt="1528007416367" redirect="true"/>
   <file name="contact.html" crc="4223394235" seo="true" mt="1528007416367" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="3979174509" seo="true" mt="1528006703942" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="4036771138" seo="true" mt="1528007931765" redirect="true"/>
 </manifest>
