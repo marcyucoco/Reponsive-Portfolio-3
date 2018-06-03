@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528000288346">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528002499424">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3954201092" ref="about:contact:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4046985890" ref="about:contact:index"/>
-    <file name="master_portfolio-master.css" crc="4198610073" ref="portfolio-grid-view"/>
-    <file name="nomq_preview_master_portfolio-master.css" crc="173266141" ref="portfolio-grid-view"/>
-    <file name="about.css" crc="4206699675" ref="about"/>
-    <file name="nomq_about.css" crc="4091754038" ref="about"/>
-    <file name="portfolio-grid-view.css" crc="44308058" ref="portfolio-grid-view"/>
-    <file name="nomq_portfolio-grid-view.css" crc="4139250089" ref="portfolio-grid-view"/>
-    <file name="contact.css" crc="3997685833" ref="contact"/>
-    <file name="nomq_contact.css" crc="497282451" ref="contact"/>
-    <file name="index.css" crc="3780920181" ref="index"/>
-    <file name="nomq_index.css" crc="133736130" ref="index"/>
+    <file name="master_a-master.css" crc="3936194959" ref="about:contact:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3984403946" ref="about:contact:index"/>
+    <file name="master_portfolio-master.css" crc="429827965" ref="portfolio-grid-view"/>
+    <file name="nomq_preview_master_portfolio-master.css" crc="4265095362" ref="portfolio-grid-view"/>
+    <file name="about.css" crc="350605124" ref="about"/>
+    <file name="nomq_about.css" crc="4241792869" ref="about"/>
+    <file name="portfolio-grid-view.css" crc="4092578177" ref="portfolio-grid-view"/>
+    <file name="nomq_portfolio-grid-view.css" crc="4242165388" ref="portfolio-grid-view"/>
+    <file name="contact.css" crc="209074627" ref="contact"/>
+    <file name="nomq_contact.css" crc="3942626868" ref="contact"/>
+    <file name="index.css" crc="487199614" ref="index"/>
+    <file name="nomq_index.css" crc="3795421433" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
@@ -137,30 +137,30 @@
     <file name="silver bullet poster mockup_2x.png" crc="300552623" seo="true" ref="portfolio-grid-view">
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
-    <file name="u1207_states.png" crc="351089546" ref="portfolio-grid-view"/>
-    <file name="u1207_states_2x.png" crc="4235722117" ref="portfolio-grid-view"/>
-    <file name="u1207_states-r.png" crc="4170903804" ref="portfolio-grid-view"/>
-    <file name="u1207_states-r_2x.png" crc="4068327636" ref="portfolio-grid-view"/>
-    <file name="u1207_states-a.png" crc="3918481333" ref="portfolio-grid-view"/>
-    <file name="u1207_states-a_2x.png" crc="4153196814" ref="portfolio-grid-view"/>
-    <file name="u1206_states.png" crc="3810402476" ref="portfolio-grid-view"/>
-    <file name="u1206_states_2x.png" crc="317080808" ref="portfolio-grid-view"/>
-    <file name="u1206_states-r.png" crc="3903243819" ref="portfolio-grid-view"/>
-    <file name="u1206_states-r_2x.png" crc="4261765795" ref="portfolio-grid-view"/>
-    <file name="u1206_states-a.png" crc="3941144016" ref="portfolio-grid-view"/>
-    <file name="u1206_states-a_2x.png" crc="3880037301" ref="portfolio-grid-view"/>
-    <file name="u1205_states.png" crc="4160963551" ref="portfolio-grid-view"/>
-    <file name="u1205_states_2x.png" crc="3882717494" ref="portfolio-grid-view"/>
-    <file name="u1205_states-r.png" crc="308305122" ref="portfolio-grid-view"/>
-    <file name="u1205_states-r_2x.png" crc="4133487129" ref="portfolio-grid-view"/>
-    <file name="u1205_states-a.png" crc="4111839288" ref="portfolio-grid-view"/>
-    <file name="u1205_states-a_2x.png" crc="358017249" ref="portfolio-grid-view"/>
-    <file name="u1203_states.png" crc="4062659547" ref="portfolio-grid-view"/>
-    <file name="u1203_states_2x.png" crc="364276091" ref="portfolio-grid-view"/>
-    <file name="u1203_states-r.png" crc="3954657887" ref="portfolio-grid-view"/>
-    <file name="u1203_states-r_2x.png" crc="3948237495" ref="portfolio-grid-view"/>
-    <file name="u1203_states-a.png" crc="472968468" ref="portfolio-grid-view"/>
-    <file name="u1203_states-a_2x.png" crc="334113026" ref="portfolio-grid-view"/>
+    <file name="u1207_states.png" crc="4255419852" ref="portfolio-grid-view"/>
+    <file name="u1207_states_2x.png" crc="4202449550" ref="portfolio-grid-view"/>
+    <file name="u1207_states-r.png" crc="3772019765" ref="portfolio-grid-view"/>
+    <file name="u1207_states-r_2x.png" crc="53584817" ref="portfolio-grid-view"/>
+    <file name="u1207_states-a.png" crc="3868389267" ref="portfolio-grid-view"/>
+    <file name="u1207_states-a_2x.png" crc="303937813" ref="portfolio-grid-view"/>
+    <file name="u1206_states.png" crc="4163055463" ref="portfolio-grid-view"/>
+    <file name="u1206_states_2x.png" crc="3983901227" ref="portfolio-grid-view"/>
+    <file name="u1206_states-r.png" crc="496388943" ref="portfolio-grid-view"/>
+    <file name="u1206_states-r_2x.png" crc="219510773" ref="portfolio-grid-view"/>
+    <file name="u1206_states-a.png" crc="3931156554" ref="portfolio-grid-view"/>
+    <file name="u1206_states-a_2x.png" crc="3991406282" ref="portfolio-grid-view"/>
+    <file name="u1205_states.png" crc="42710956" ref="portfolio-grid-view"/>
+    <file name="u1205_states_2x.png" crc="199286450" ref="portfolio-grid-view"/>
+    <file name="u1205_states-r.png" crc="4228417142" ref="portfolio-grid-view"/>
+    <file name="u1205_states-r_2x.png" crc="3985924536" ref="portfolio-grid-view"/>
+    <file name="u1205_states-a.png" crc="4009931123" ref="portfolio-grid-view"/>
+    <file name="u1205_states-a_2x.png" crc="3806922896" ref="portfolio-grid-view"/>
+    <file name="u1203_states.png" crc="4106881388" ref="portfolio-grid-view"/>
+    <file name="u1203_states_2x.png" crc="462933789" ref="portfolio-grid-view"/>
+    <file name="u1203_states-r.png" crc="4201257409" ref="portfolio-grid-view"/>
+    <file name="u1203_states-r_2x.png" crc="421374005" ref="portfolio-grid-view"/>
+    <file name="u1203_states-a.png" crc="194720956" ref="portfolio-grid-view"/>
+    <file name="u1203_states-a_2x.png" crc="4098269497" ref="portfolio-grid-view"/>
     <file name="silver bullet poster mockup275x392.png" crc="15067396" seo="true" ref="portfolio-grid-view">
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
@@ -174,8 +174,8 @@
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="310277732" seo="true" mt="1528000275040" redirect="true"/>
-  <file name="about.html" crc="445695363" seo="true" mt="1528000241429" redirect="true"/>
-  <file name="contact.html" crc="4232277747" seo="true" mt="1528000241429" redirect="true"/>
-  <file name="portfolio-grid-view.html" crc="4075717520" seo="true" mt="1527799347190" redirect="true"/>
+  <file name="index.html" crc="3988318189" seo="true" mt="1528002485045" redirect="true"/>
+  <file name="about.html" crc="3918060616" seo="true" mt="1528002485045" redirect="true"/>
+  <file name="contact.html" crc="4177419103" seo="true" mt="1528002485045" redirect="true"/>
+  <file name="portfolio-grid-view.html" crc="3762946648" seo="true" mt="1528002357577" redirect="true"/>
 </manifest>
