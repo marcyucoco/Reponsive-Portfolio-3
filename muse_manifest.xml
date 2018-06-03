@@ -1,40 +1,40 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528004242379">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528006329967">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3791878801" ref="about:contact:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="368475682" ref="about:contact:index"/>
-    <file name="master_portfolio-master.css" crc="3911963882" ref="portfolio-grid-view"/>
-    <file name="nomq_preview_master_portfolio-master.css" crc="3978027226" ref="portfolio-grid-view"/>
-    <file name="about.css" crc="402681925" ref="about"/>
-    <file name="nomq_about.css" crc="4245527436" ref="about"/>
-    <file name="portfolio-grid-view.css" crc="4176443495" ref="portfolio-grid-view"/>
-    <file name="nomq_portfolio-grid-view.css" crc="3831411830" ref="portfolio-grid-view"/>
-    <file name="contact.css" crc="3848211639" ref="contact"/>
-    <file name="nomq_contact.css" crc="4017468070" ref="contact"/>
-    <file name="index.css" crc="15343401" ref="index"/>
-    <file name="nomq_index.css" crc="304282746" ref="index"/>
+    <file name="master_a-master.css" crc="348923519" ref="about:contact:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4184020636" ref="about:contact:index"/>
+    <file name="master_portfolio-master.css" crc="325809204" ref="portfolio-main-page"/>
+    <file name="nomq_preview_master_portfolio-master.css" crc="4260828978" ref="portfolio-main-page"/>
+    <file name="about.css" crc="304314726" ref="about"/>
+    <file name="nomq_about.css" crc="514035033" ref="about"/>
+    <file name="contact.css" crc="306773733" ref="contact"/>
+    <file name="nomq_contact.css" crc="257438248" ref="contact"/>
+    <file name="index.css" crc="421942496" ref="index"/>
+    <file name="nomq_index.css" crc="3818654528" ref="index"/>
+    <file name="portfolio-main-page.css" crc="389933368" ref="portfolio-main-page"/>
+    <file name="nomq_portfolio-main-page.css" crc="4277203015" ref="portfolio-main-page"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
     <file name="background_video.mulib" crc="3877035001" seo="true" mt="1527133118000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio-grid-view"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:contact:portfolio-grid-view"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:contact:portfolio-grid-view"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about:contact:portfolio-grid-view"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:portfolio-grid-view"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:contact:portfolio-grid-view"/>
-    <file name="require.js" crc="4157109226" ref="index:about:contact:portfolio-grid-view"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio-main-page"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:contact:portfolio-main-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:portfolio-main-page"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:contact:portfolio-main-page"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:portfolio-main-page"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:contact:portfolio-main-page"/>
+    <file name="require.js" crc="4157109226" ref="index:about:contact:portfolio-main-page"/>
     <file name="webpro.js" crc="242022427" ref="contact"/>
     <file name="form_check.php" crc="147359589" ref="contact"/>
     <file name="form_throttle.php" crc="93986428" ref="contact"/>
     <file name="form_process.php" crc="3851993751" ref="contact"/>
     <file name="form-u956.php" crc="3947157903" ref="contact"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="portfolio-grid-view"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="portfolio-main-page"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="about:contact:portfolio-grid-view"/>
+    <file name="blank.gif" crc="4208392903" ref="about:contact:portfolio-main-page"/>
     <file name="u357-7.png" crc="311409804" ref="about"/>
     <file name="u357-7_2x.png" crc="200199456" ref="about"/>
     <file name="u357-72.png" crc="8213923" ref="about"/>
@@ -131,27 +131,37 @@
     <file name="u961-fse_2x4.png" crc="530730364" ref="contact"/>
     <file name="u972-fss4.png" crc="104885687" ref="contact"/>
     <file name="u972-fss_2x4.png" crc="263308977" ref="contact"/>
-    <file name="silver bullet poster mockup.png" crc="425449628" seo="true" ref="portfolio-grid-view">
+    <file name="silver bullet poster mockup.png" crc="425449628" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
-    <file name="silver bullet poster mockup_2x.png" crc="300552623" seo="true" ref="portfolio-grid-view">
+    <file name="silver bullet poster mockup_2x.png" crc="300552623" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
-    <file name="silver bullet poster mockup275x392.png" crc="15067396" seo="true" ref="portfolio-grid-view">
+    <file name="silver bullet poster mockup275x392.png" crc="15067396" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
-    <file name="silver bullet poster mockup275x392_2x.png" crc="217333365" seo="true" ref="portfolio-grid-view">
+    <file name="silver bullet poster mockup275x392_2x.png" crc="217333365" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
+      <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
       <caption webpage="portfolio-grid-view" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4066104023" seo="true" mt="1528004211348" redirect="true"/>
-  <file name="about.html" crc="465705156" seo="true" mt="1528004211348" redirect="true"/>
-  <file name="contact.html" crc="380804308" seo="true" mt="1528004211348" redirect="true"/>
-  <file name="portfolio-grid-view.html" crc="3948198419" seo="true" mt="1528002757601" redirect="true"/>
+  <file name="index.html" crc="277287235" seo="true" mt="1528005961426" redirect="true"/>
+  <file name="about.html" crc="145172734" seo="true" mt="1528005961426" redirect="true"/>
+  <file name="contact.html" crc="292399026" seo="true" mt="1528006100920" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="3836497630" seo="true" mt="1528006265811" redirect="true"/>
 </manifest>
